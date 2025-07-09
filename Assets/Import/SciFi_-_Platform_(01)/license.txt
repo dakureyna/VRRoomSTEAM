@@ -1,0 +1,11 @@
+Model Information:
+* title:	SciFi - Platform (01)
+* source:	https://sketchfab.com/3d-models/scifi-platform-01-21abb6dcc4a04ab4805ea23c9a170d82
+* author:	yb2o4 (https://sketchfab.com/yb2o4l)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SciFi - Platform (01)" (https://sketchfab.com/3d-models/scifi-platform-01-21abb6dcc4a04ab4805ea23c9a170d82) by yb2o4 (https://sketchfab.com/yb2o4l) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
