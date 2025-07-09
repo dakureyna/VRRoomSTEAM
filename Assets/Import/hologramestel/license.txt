@@ -1,0 +1,11 @@
+Model Information:
+* title:	hologram
+* source:	https://sketchfab.com/3d-models/hologram-3ca3da8c624d4c529d7c3b1f18da3f7e
+* author:	wit.aimhema (https://sketchfab.com/wit.aimhema)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hologram" (https://sketchfab.com/3d-models/hologram-3ca3da8c624d4c529d7c3b1f18da3f7e) by wit.aimhema (https://sketchfab.com/wit.aimhema) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
